@@ -1,0 +1,25 @@
+Apple 100 42
+Orange 130 59
+Raspberry 231 17
+TV 132 10
+Bread 4 23
+Laptop 899 5
+Chair 49 20
+Coffee 7 100
+Notebook 3 50
+Pen 1 200
+Headphones 69 15
+Desk 129 8
+Printer 199 12
+Backpack 39 30
+Sunglasses 25 40
+Sneakers 59 25
+Watch 129 18
+Umbrella 12 75
+Candle 4 150
+Tshirt 15 50
+Jeans 29 35
+Plant 20 45
+Pillow 9 60
+Flashlight 8 80
+
